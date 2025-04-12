@@ -1,0 +1,6 @@
+cd "C:\Users\jayap\fake-url-detector"
+git init
+git remote add origin https://github.com/aiexplorer19/phishing-url-detector.git
+git add .
+git commit -m "Initial commit"
+git push -u origin main
